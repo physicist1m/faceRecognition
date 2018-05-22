@@ -1,3 +1,6 @@
 .Tilt {
+    top: 10px;
+    left: 20px;
+    position: fixed;
     background: linear-gradient(to right, rgb(119, 69, 163), rgb(119, 17, 214));
 }
